@@ -321,7 +321,7 @@ class AdaptiveLearningSystem:
 
 def main():
     # Direct API key use for testing
-    API_KEY = "AIzaSyAmD-wCvCyWRUX913MNUwN_QU8zXq4XjHk"  # Replace with your actual API key
+    API_KEY = ""  # Replace with your actual API key
     
     # Or use environment variable (recommended for production)
     # API_KEY = os.environ.get("GEMINI_API_KEY")
