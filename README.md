@@ -20,3 +20,7 @@ The project consists of multiple Python scripts, each serving a specific functio
 - **`statement4.py`** – This module dynamically generates teaching materials tailored to different educational requirements. It plays a crucial role in providing adaptive learning content.  
 
 Together, these scripts create a structured approach to personalized learning by making data-driven decisions on study materials and student progression.
+
+
+![readability_distribution](https://github.com/user-attachments/assets/095ee53d-c868-4ee3-ac13-865256ca89f2)
+
