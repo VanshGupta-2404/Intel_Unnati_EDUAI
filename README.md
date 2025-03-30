@@ -15,9 +15,11 @@ The project consists of multiple Python scripts, each serving a specific functio
 
 - **`predict_studymat.py`** – This file is responsible for predicting the appropriate study materials based on predefined criteria. It helps in selecting the most suitable learning resources for students.  
 
-- **`statement3.py`** – This script processes study materials based on the student's academic level. It ensures that students receive content that matches their proficiency and learning needs.  
+- **`keep_skip_material.py`** – This script processes study materials based on the student's academic level. It ensures that students receive content that matches their proficiency and learning needs.  
 
-- **`statement4.py`** – This module dynamically generates teaching materials tailored to different educational requirements. It plays a crucial role in providing adaptive learning content.  
+- **`generate_teaching_material.py`** – This module dynamically generates teaching materials tailored to different educational requirements. It plays a crucial role in providing adaptive learning content.
+
+- - **`checkcapability.py`** – This script conducts an assessment to evaluate a student's capability and determines whether they should be promoted to the next level. 
 
 Together, these scripts create a structured approach to personalized learning by making data-driven decisions on study materials and student progression.
 
